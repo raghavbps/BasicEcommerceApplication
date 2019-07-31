@@ -1,0 +1,28 @@
+2019-07-12 12:44:14.772  INFO 3421 --- [restartedMain] c.f.b.BasicecommercewebsiteApplication   : Starting BasicecommercewebsiteApplication on BTMDVRAGHAVS.local with PID 3421 (/Users/raghav.s/IdeaProjects/basicecommercewebsite/target/classes started by raghav.s in /Users/raghav.s/IdeaProjects/basicecommercewebsite)
+2019-07-12 12:44:14.774  INFO 3421 --- [restartedMain] c.f.b.BasicecommercewebsiteApplication   : No active profile set, falling back to default profiles: default
+2019-07-12 12:44:14.951  INFO 3421 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-07-12 12:44:14.952  INFO 3421 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-07-12 12:44:17.804  INFO 3421 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-12 12:44:17.846  INFO 3421 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-12 12:44:17.847  INFO 3421 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-12 12:44:18.091  INFO 3421 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-12 12:44:18.098  INFO 3421 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3145 ms
+2019-07-12 12:44:18.890  INFO 3421 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-12 12:44:19.462  INFO 3421 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-07-12 12:44:19.562  INFO 3421 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-12 12:44:19.571  INFO 3421 --- [restartedMain] c.f.b.BasicecommercewebsiteApplication   : Started BasicecommercewebsiteApplication in 5.629 seconds (JVM running for 6.524)
+2019-07-12 12:44:59.018  INFO 3421 --- [Thread-9] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-12 12:45:03.347  INFO 3424 --- [restartedMain] c.f.b.BasicecommercewebsiteApplication   : Starting BasicecommercewebsiteApplication on BTMDVRAGHAVS.local with PID 3424 (/Users/raghav.s/IdeaProjects/basicecommercewebsite/target/classes started by raghav.s in /Users/raghav.s/IdeaProjects/basicecommercewebsite)
+2019-07-12 12:45:03.377  INFO 3424 --- [restartedMain] c.f.b.BasicecommercewebsiteApplication   : No active profile set, falling back to default profiles: default
+2019-07-12 12:45:03.533  INFO 3424 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-07-12 12:45:03.534  INFO 3424 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-07-12 12:45:07.309  INFO 3424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-12 12:45:07.355  INFO 3424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-12 12:45:07.356  INFO 3424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-12 12:45:07.510  INFO 3424 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-12 12:45:07.510  INFO 3424 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3976 ms
+2019-07-12 12:45:08.986  INFO 3424 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-12 12:45:09.827  INFO 3424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-07-12 12:45:09.920  INFO 3424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-12 12:45:09.926  INFO 3424 --- [restartedMain] c.f.b.BasicecommercewebsiteApplication   : Started BasicecommercewebsiteApplication in 7.494 seconds (JVM running for 8.392)
+2019-07-12 12:45:50.985  INFO 3424 --- [Thread-9] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
